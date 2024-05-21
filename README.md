@@ -5,7 +5,8 @@ This is a realtime multiplayer pong game created using the following technologie
 	- **Socket.io**
 	- **Postgres**
 - frontend:
-	- **ReactJs**
+	- **React**
+ 	- **TypeScript**
 	- **Tailwind css**
 # setup
 
@@ -39,3 +40,11 @@ docker compose down --volumes --rmi local
 # Screenshots
 
 ![main](https://github.com/najib37/Ponga_Online/assets/120307266/ecad373c-66b4-4284-93c4-70696a7913ee)
+![authentication](https://github.com/H-BOU/ft_transcendence/assets/91385104/417d52ea-76d8-448b-a6a8-31ae29e6dc54)
+![home](https://github.com/H-BOU/ft_transcendence/assets/91385104/6b8b6b6d-5e22-4438-80dc-6c51a3b5ceee)
+![profile](https://github.com/H-BOU/ft_transcendence/assets/91385104/90be02be-79cf-463f-9d11-ae7ee31a89d9)
+![chat](https://github.com/H-BOU/ft_transcendence/assets/91385104/087874a4-cba3-41f1-8aed-fc2efe775e2b)
+https://github.com/H-BOU/ft_transcendence/assets/91385104/cff95ad8-e327-4ff6-bc27-f9cdac0f4718
+
+
+
