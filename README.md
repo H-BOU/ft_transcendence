@@ -30,10 +30,6 @@ docker compose down --volumes --rmi local
 !!! check the env_example to create your own .env file otherwise the project wont be builth
 
 
-# Live Demo
-
-**143.198.2.149:8080**
-
 # Database Schema
 ![image](https://github.com/najib37/Ponga_Online/assets/120307266/80dba000-5085-422b-9a83-4cd0b81d0ad4)
 
@@ -69,8 +65,9 @@ docker compose down --volumes --rmi local
 
 <img width="2560" alt="Screen Shot 2024-05-25 at 3 17 11 PM" src="https://github.com/H-BOU/ft_transcendence/assets/91385104/3860ae41-1820-4902-a62d-a3a176c976f4">
 
+https://github.com/H-BOU/ft_transcendence/assets/91385104/5523d0fa-2887-4787-8caa-192548a0c521
 
-https://github.com/H-BOU/ft_transcendence/assets/91385104/cff95ad8-e327-4ff6-bc27-f9cdac0f4718
+
 
 
 
