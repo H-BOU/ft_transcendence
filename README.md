@@ -35,8 +35,6 @@ docker compose down --volumes --rmi local
 
 # Screenshots
 
-![main](https://github.com/najib37/Ponga_Online/assets/120307266/ecad373c-66b4-4284-93c4-70696a7913ee)
-
 ![authentication](https://github.com/H-BOU/ft_transcendence/assets/91385104/417d52ea-76d8-448b-a6a8-31ae29e6dc54)
 
 ![home](https://github.com/H-BOU/ft_transcendence/assets/91385104/6b8b6b6d-5e22-4438-80dc-6c51a3b5ceee)
@@ -65,8 +63,9 @@ docker compose down --volumes --rmi local
 
 <img width="2560" alt="Screen Shot 2024-05-25 at 3 17 11 PM" src="https://github.com/H-BOU/ft_transcendence/assets/91385104/3860ae41-1820-4902-a62d-a3a176c976f4">
 
-https://github.com/H-BOU/ft_transcendence/assets/91385104/5523d0fa-2887-4787-8caa-192548a0c521
+https://github.com/H-BOU/ft_transcendence/assets/91385104/811cde1d-ae71-443a-b999-08408ebc017a
 
+![main](https://github.com/najib37/Ponga_Online/assets/120307266/ecad373c-66b4-4284-93c4-70696a7913ee)
 
 
 
