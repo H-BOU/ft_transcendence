@@ -1,4 +1,11 @@
 This is a realtime multiplayer pong game created using the following technologies:
+- Team
+	- Najib Ramadan
+	- Ayoub Jemraoui
+	- Youssef Joundi
+ 	- Hamza Harik
+  	- Haitam Bouladhan
+
 - [backend](https://github.com/najib37/nest_backend):
 	- **NestJS**
 	- **PrismaORM**
